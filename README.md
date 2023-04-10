@@ -40,7 +40,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 ![Animation_Project6_3](https://user-images.githubusercontent.com/71582315/230560852-5092f3af-b2a2-48d8-acd9-03b4ad01ada1.gif)
 
-![Animation_Project6](https://user-images.githubusercontent.com/71582315/230560378-48931983-bff2-4181-ae9e-2ee4fdbe45fc.gif)
+![AND101_Week6_2](https://user-images.githubusercontent.com/71582315/230806634-40f39a21-b2fc-4f19-8fea-7fa1ae54a9e0.gif)
 
 
 GIF created with **ScreenToGif**
